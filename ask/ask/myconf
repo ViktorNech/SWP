@@ -1,0 +1,6 @@
+#DB Conf
+[client]
+database = My_Django
+user = My_Django
+password = K13Yhe!_django
+default-character-set = utf8
